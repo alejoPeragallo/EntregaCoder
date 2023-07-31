@@ -269,6 +269,22 @@ h3.subtitulo {
     width: auto;
     height: auto;}
 
+.tenis{
+    display: flex;
+    height: fit-content;
+    width: 40%;
+    margin-left: 60%;
+    margin-bottom: 5px;
+    border: solid 2px black;
+}
+.tenis p{
+    margin-top: 15%;
+}
+.tenis img{
+    border-radius: 15px;
+    margin-left: 2px;
+    margin-bottom: 3px;
+}
     @media(max-width:1024px){
         .imagenGrande{
             height: 400px;
