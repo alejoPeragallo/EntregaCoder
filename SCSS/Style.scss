@@ -250,7 +250,6 @@
       }
     }
   }
-  
   .centro {
     display: flex;
     align-items: center;
@@ -318,7 +317,6 @@
       margin-bottom: 3px;
     }
   }
-  
   @media (max-width: 1024px) {
     .imagenGrande {
       height: 400px;
@@ -389,7 +387,6 @@
       margin-right: 50%;
     }
   }
-  
   @media (max-width: 768px) {
     .imagenGrande, .imagenGrandeEstatica {
       height: 360px;
@@ -448,7 +445,6 @@
       margin-left: auto;
     }
   }
-  
   @media (max-width: 480px) {
     .imagenGrande {
       height: 350px;
@@ -522,8 +518,7 @@
       margin-right: auto;
       width: fit-content;
     }
-  }
-  
+  } 
   @media (max-width: 320px) {
     .imagenGrande {
       height: 400px;
